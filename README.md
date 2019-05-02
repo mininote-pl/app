@@ -7,3 +7,9 @@ Vue
 
 Visual Studio Code
   Vetur
+
+
+
+Opensource project works on 
+  https://app.mininote.pl/
+
